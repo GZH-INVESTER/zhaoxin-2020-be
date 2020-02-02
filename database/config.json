@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123456",
+    "database": "zhaoxin",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "123456",
+    "database": "zhaoxin_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
